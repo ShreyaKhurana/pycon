@@ -1,0 +1,8 @@
+*.mp4
+__pycache__/
+*.pptx
+venv/
+cld3/
+langid/
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
